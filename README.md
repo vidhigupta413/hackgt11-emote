@@ -1,1 +1,3 @@
 # hackgt11-emote
+
+This project involves the development of a machine learning-based facial emotion detection system designed to assist children with autism in recognizing and understanding emotions in others. The model utilizes computer vision to detect a person’s face in real-time and then analyzes facial expressions to identify the corresponding emotion, such as happiness, sadness, anger, or surprise. By providing clear, immediate feedback on the emotions people are displaying, this tool helps children with autism improve their social interaction skills by learning to better recognize and interpret facial cues.
